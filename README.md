@@ -9,6 +9,9 @@ This was one of the first proper logic design exercises I’ve done. I didn’t 
 Files included:
 
 Screenshot of the logic circuit
+
 The full truth table image
+
 A PDF with K-maps for all three conditions
+
 Hoping to do more digital logic stuff soon and maybe try building this physically with ICs. 
